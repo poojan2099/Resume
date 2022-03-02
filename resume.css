@@ -28,7 +28,7 @@ body{
 }
 .horizontal-list li a{
 	
-	color:white;
+	color:#1d0f0f;
 	text-decoration:none;
 }
 .nav-menu li a{
@@ -118,7 +118,7 @@ section:nth-child(2n + 1) {
 }
 
 .skill-name span {
-    color: white;
+    color: #1d0f0f;
     font-size: 1rem;
     margin-left: 10px;
     padding: 20px;
